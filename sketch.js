@@ -228,6 +228,8 @@ function setup() {
   panelHalfH = Math.floor(panelH / 2);
 
   noLoop();
+
+  startSimulation();
 }
 
 function draw() {
